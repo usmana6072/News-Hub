@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/aljazeeranews"
+        android:icon="@drawable/aljazeeraicon"
+        android:title="Al Jazeera"
+        app:iconTint="@null" />
+
+    <item
+        android:id="@+id/arynews"
+        android:icon="@drawable/aryicon"
+        android:title="ARY"
+        app:iconTint="@null" />
+
+    <item
+        android:id="@+id/bbcnews"
+        android:icon="@drawable/bbcicon"
+        android:title="BBC"
+        app:iconTint="@null" />
+
+    <item
+        android:id="@+id/cnnnews"
+        android:icon="@drawable/cnnicon"
+        android:title="CNN"
+        app:iconTint="@null" />
+
+    <item
+        android:id="@+id/newyorktimesnews"
+        android:icon="@drawable/newyorktimesicon"
+        android:title="NewYork Times"
+        app:iconTint="@null" />
+    </group>
+
+</menu>
